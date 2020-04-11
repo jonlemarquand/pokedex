@@ -1,0 +1,37 @@
+[{
+        "id": 1,
+        "name": "Bulbasaur",
+        "height": 0.7,
+        "weight": 6.9,
+        "type": ["grass", "poison"],
+        "category": "seed",
+        "weaknesses": ["fire", "flying", "ice", "psychic"],
+        "description": "Bulbasaur can be seen napping in bright sunlight. There is a seed on its back. By soaking up the sun's rays, the seed grows progressively larger.",
+        "evolvesFrom": null,
+        "evolvesTo": "Ivysaur"
+    },
+    {
+        "id": 2,
+        "name": "Ivysaur",
+        "height": 1,
+        "weight": 13,
+        "type": ["grass", "poison"],
+        "category": "seed",
+        "weaknesses": ["fire", "flying", "ice", "psychic"],
+        "description": "There is a bud on this Pokémon's back. To support its weight, Ivysaur's legs and trunk grow thick and strong. If it starts spending more time lying in the sunlight, it's a sign that the bud will bloom into a large flower soon.",
+        "evolvesFrom": "Bulbasaur",
+        "evolvesTo": "Venusaur"
+    },
+    {
+        "id": 3,
+        "name": "Venusaur",
+        "height": 2,
+        "weight": 100,
+        "type": ["grass", "poison"],
+        "category": "seed",
+        "weaknesses": ["fire", "flying", "ice", "psychic"],
+        "description": "There is a large flower on Venusaur's back. The flower is said to take on vivid colors if it gets plenty of nutrition and sunlight. The flower's aroma soothes the emotions of people.",
+        "evolvesFrom": "Ivysaur",
+        "evolvesTo": null
+    }
+]
